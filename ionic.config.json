@@ -1,0 +1,7 @@
+{
+  "name": "CDP",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}
